@@ -2,6 +2,10 @@
 
 ![Logo DreamCode](https://media.discordapp.net/attachments/1081630236543811698/1087852335948124160/-removebg-preview.png)
 
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
+
 😁O projeto AluraPlus é um website criado utilizando HTML e CSS<br>
 para a plataforma de cursos online Alura. O objetivo do projeto é fornecer<br> aos usuários uma interface intuitiva e agradável para explorar os cursos disponíveis na plataforma.
 
