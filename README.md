@@ -25,5 +25,6 @@ No geral, o projeto AluraPlus é um exemplo de como é possível utilizar HTML e
 <img src="https://media.discordapp.net/attachments/1081630236543811698/1087855265124192336/image.png?width=1025&height=440">
 <img src="https://media.discordapp.net/attachments/1081630236543811698/1087855404563837089/image.png?width=1010&height=473">
 
+# Desenvolvedor
 [<img src="https://media.discordapp.net/attachments/1081630236543811698/1087862100505931776/Gustavo-foto.png?width=353&height=473" width=115><br><sub>| 🙋🏼‍♂️Gustavo Araújo |</sub>](https://github.com/onedreamcwb) 
  
