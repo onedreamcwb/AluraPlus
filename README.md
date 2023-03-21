@@ -13,4 +13,7 @@ a navegação dos usuários. Já o CSS foi utilizado para definir as cores, font
 
 No geral, o projeto AluraPlus é um exemplo de como é possível utilizar HTML e CSS para criar uma interface atraente e funcional para um website.
 
-# Imagem do Projeto
+# Imagens do Projeto
+<img src="https://media.discordapp.net/attachments/1081630236543811698/1087855079530442872/image.png?width=1025&height=450">
+<img src="https://media.discordapp.net/attachments/1081630236543811698/1087855265124192336/image.png?width=1025&height=440">
+<img src="https://media.discordapp.net/attachments/1081630236543811698/1087855404563837089/image.png?width=1010&height=473">
