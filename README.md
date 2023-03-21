@@ -5,6 +5,9 @@
 😁O projeto AluraPlus é um website criado utilizando HTML e CSS<br>
 para a plataforma de cursos online Alura. O objetivo do projeto é fornecer<br> aos usuários uma interface intuitiva e agradável para explorar os cursos disponíveis na plataforma.
 
+## Link do projeto
+<a href="https://alura-plus-rose-three.vercel.app/">Clique Aqui</a>
+
 💻O website possui um layout responsivo e moderno, com destaque<br> para a imagem de fundo na página principal e o uso de cores contrastantes para destacar os botões e chamadas para ação.
 
 👁‍🗨A estrutura do website foi criada utilizando HTML semântico, <br>
